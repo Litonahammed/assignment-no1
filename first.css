@@ -115,10 +115,15 @@ body {
 .donate-palne {}
 
 .donate-plane-text {
+
     background-color: rgb(253, 255, 255);
     margin: 100px 250px;
     text-align: center;
 
+}
+
+.donate-plane-text h1 {
+    font-size: 50px;
 }
 
 .donate-photo1 {
@@ -164,4 +169,13 @@ body {
 .total-plane {
     display: flex;
     margin: 100px;
+}
+
+.footer {
+    background-color: black;
+    width: 100%;
+    height: 200px;
+    color: #ff7f50;
+    text-align: center;
+    padding-top: 10px;
 }
