@@ -173,6 +173,81 @@ body {
     margin: 100px;
 }
 
+/* payment methode */
+
+
+.payment-methode {
+    text-align: center;
+    background-color: aqua;
+    width: 100%;
+    height: 300px;
+    padding-top: 30px;
+    padding-left: 50px;
+}
+
+.cradit-card {
+    border: none;
+    width: 150px;
+    height: 30px;
+}
+
+.bank-account {
+    background-color: #f20e0e;
+    color: white;
+    border: none;
+    width: 150px;
+    height: 30px;
+}
+
+.payment-form {
+    display: block;
+    margin-top: 30px;
+}
+
+/* get my update */
+.my-update {
+    width: 100%;
+    height: 450px;
+    background-color: rgb(247, 247, 243);
+    text-align: center;
+    padding-top: 3px;
+    margin-top: 5px;
+    margin-bottom: 50px;
+}
+
+.my-update h1 {
+
+    font-size: 40px;
+}
+
+.email {
+    background-color: rgb(237, 244, 242);
+    margin-top: 18px;
+    border: none;
+    width: 200px;
+    height: 40px;
+}
+
+.subscribe {
+    border: none;
+    background-color: chartreuse;
+    padding: 5px;
+    width: 100px;
+    height: 40px;
+    ;
+}
+
+.email-subscribe {
+
+    width: 50%;
+    height: 30%;
+    background-color: lightgoldenrodyellow;
+    margin: 30px 100px 30px 350px;
+    padding-top: 50px;
+
+}
+
+
 .footer {
     background-color: black;
     width: 100%;
